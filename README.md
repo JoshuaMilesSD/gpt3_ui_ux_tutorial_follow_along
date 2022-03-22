@@ -1,3 +1,11 @@
+# Following A Tutorial from Adrian Hajdin
+I am following this turorial, follow my progress on tik tok live @a_deck_of_crazy or follow my daily progress on twich @JoshuaMilesWebDevSD. This YouTube tutorial is rich in information that is vital for any react student. 
+https://www.youtube.com/watch?v=LMagNcngvcU&t=909s. A big thank you to Adrian for making this content.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
