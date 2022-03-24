@@ -1,10 +1,27 @@
 import React from 'react';
 import './what.css';
+import Feature from '../features/Features';
 
 
 const What = () => {
   return (
-    <div>What</div>
+    < div className='gpt3__whatgpt3 section__margin' id="wgpt3">
+
+    <div className='gpt3__whatgpt3-feature'>
+      <Feature />
+    </div>
+
+    <div className='gpt3__whatgpt3-heading'>
+      <h1 className='gradient__text'>
+        The possibilities are beyond your imagination</h1>
+        <p> Explore the Library</p>
+    </div>
+    <div className='gpt3__whatgpt3-container'>
+      <Feature />
+      <Feature />
+      <Feature />
+    </div>
+    </div>
   )
 }
 
